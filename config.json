@@ -1,0 +1,16 @@
+{
+    "circuit": {
+        "domain": "",
+        "client_id": "",
+        "client_secret": ""
+    },
+    "circuit_bot": {
+        "domain": "",
+        "client_id": "",
+        "client_secret": ""
+    },
+    "app": {
+        "host": "http://localhost",
+        "port": 9000
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "circuit-events",
+  "version": "1.0.0",
+  "description": "Ciruict node.js app for Atos Hackathon",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Roger Urscheler, Unify Inc.",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "circuit-sdk": "^1.2.4703",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "localStorage": "^1.0.4",
+    "node-fetch": "^2.3.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.81.0"
+  }
+}
